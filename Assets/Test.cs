@@ -7,6 +7,7 @@ public class Test : MonoBehaviour {
 	void Start () 
     {
         Debug.Log("깃허브 테스트");
+		Debug.Log("호빵~.~");
 	}
 	
 	// Update is called once per frame
